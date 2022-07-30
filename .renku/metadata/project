@@ -1,0 +1,33 @@
+{
+  "@renku_data_type": "renku.domain_model.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "1.6.0",
+  "annotations": [],
+  "automated_update": true,
+  "creator": {
+    "@renku_data_type": "renku.domain_model.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "cramakri@ethz.ch",
+      "id": "mailto:cramakri@ethz.ch",
+      "name": "Chandrasekhar Ramakrishnan"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2022-07-30T09:08:30+00:00"
+  },
+  "description": "",
+  "id": "/projects/cramakri/life-expectancy",
+  "immutable_template_files": [],
+  "keywords": [],
+  "minimum_renku_version": "1.2.0",
+  "name": "life-expectancy",
+  "template_id": "python-minimal",
+  "template_metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.3.3\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"cramakri\", \"__automated_update__\": true, \"__repository__\": \"https://renkulab.io/gitlab\", \"__sanitized_project_name__\": \"life-expectancy\", \"__project_slug__\": \"cramakri/life-expectancy\", \"__project_description__\": \"\", \"__renku_version__\": \"1.6.0\", \"name\": \"life-expectancy\", \"__name__\": \"life-expectancy\", \"__template_version__\": \"50d878ef5a6bc75e7b2e1643e41f8dbf1a889efb\"}",
+  "template_ref": "0.3.3",
+  "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+  "template_version": "50d878ef5a6bc75e7b2e1643e41f8dbf1a889efb",
+  "version": 9
+}
