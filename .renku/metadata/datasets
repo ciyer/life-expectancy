@@ -21,7 +21,7 @@
                   "states",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
-                    "@renku_oid": "cb70d4c6338f10aae2acbcc7b7c7ca56fd68b66ef53e2eb0f28680acbb118a32",
+                    "@renku_oid": "1ba7568d3d4a1907cee9bfa34ccc03029e6fa38ec004b628dbd0f51c0ffc2d18",
                     "@renku_reference": true
                   }
                 ]
