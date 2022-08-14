@@ -27,7 +27,7 @@
                   "rwjf_2020",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
-                    "@renku_oid": "e19482614ec0b39fadc74e6b036928e5ec1395aa8175c136f18f0fe114ea6630",
+                    "@renku_oid": "0f97d4d8fd35d928662161c6370a7b46804e889418175c11315959ccd5a418de",
                     "@renku_reference": true
                   },
                   "rwjf_2022",
