@@ -30,6 +30,12 @@
                     "@renku_oid": "e19482614ec0b39fadc74e6b036928e5ec1395aa8175c136f18f0fe114ea6630",
                     "@renku_reference": true
                   },
+                  "rwjf_2022",
+                  {
+                    "@renku_data_type": "renku.domain_model.dataset.Dataset",
+                    "@renku_oid": "4c7d9094ee3119457735a1d5082e93ca4b0b0d8b3d74ac8e5b7bb5341bd7f30b",
+                    "@renku_reference": true
+                  },
                   "states",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
